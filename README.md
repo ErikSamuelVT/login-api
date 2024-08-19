@@ -8,6 +8,10 @@ _Now you must enter the login-api folder with the following command_
 ```
 cd login-api
 ```
+_Now you must install the dependencies with the following command_
+```
+npm install
+```
 **Note:** You must put your own credentials for mongodb and the jwt secret in an .env file
 
 _Now you can run the API with the following command_
